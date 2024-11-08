@@ -15,10 +15,10 @@ st.set_page_config(
 # Add a sidebar
 st.sidebar.markdown("## **User Input Features**")
 
-# Add a selector for stock exchange
-st.sidebar.markdown("### **Select stock exchange**")
-stock_exchange = st.sidebar.radio("Choose a stock exchange", ("BSE", "NSE"), index=0)
-
+# # Add a selector for stock exchange
+# st.sidebar.markdown("### **Select stock exchange**")
+# stock_exchange = st.sidebar.radio("Choose a stock exchange", ("BSE", "NSE"), index=0)
+#
 # Add a disabled input for stock ticker
 st.sidebar.markdown("### **Enter stock ticker**")
 stock_ticker = st.sidebar.text_input("Enter a stock ticker (e.g., AAPL, MSFT)", value="AAPL").upper()
