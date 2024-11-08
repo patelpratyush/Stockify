@@ -1,0 +1,504 @@
+Security Code,Issuer Name,Security Id,Security Name,Status,Group,Face Value,ISIN No,Industry,Instrument,Sector Name,Industry New Name,Igroup Name,ISubgroup Name
+NVDA,NVIDIA Corporation,NVDA,NVIDIA Corporation,Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+AAPL,Apple Inc.,AAPL,Apple Inc.,Active,Technology,,,Consumer Electronics,Stock,Technology,Consumer Electronics,Technology,Consumer Electronics
+MSFT,Microsoft Corporation,MSFT,Microsoft Corporation,Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+AMZN,"Amazon.com, Inc.",AMZN,"Amazon.com, Inc.",Active,Consumer Cyclical,,,Internet Retail,Stock,Consumer Cyclical,Internet Retail,Consumer Cyclical,Internet Retail
+GOOG,Alphabet Inc.,GOOG,Alphabet Inc.,Active,Communication Services,,,Internet Content & Information,Stock,Communication Services,Internet Content & Information,Communication Services,Internet Content & Information
+GOOGL,Alphabet Inc.,GOOGL,Alphabet Inc.,Active,Communication Services,,,Internet Content & Information,Stock,Communication Services,Internet Content & Information,Communication Services,Internet Content & Information
+META,"Meta Platforms, Inc.",META,"Meta Platforms, Inc.",Active,Communication Services,,,Internet Content & Information,Stock,Communication Services,Internet Content & Information,Communication Services,Internet Content & Information
+BRK-B,Berkshire Hathaway Inc. New,BRK-B,Berkshire Hathaway Inc.,Active,Financial Services,,,Insurance - Diversified,Stock,Financial Services,Insurance - Diversified,Financial Services,Insurance - Diversified
+TSLA,"Tesla, Inc.",TSLA,"Tesla, Inc.",Active,Consumer Cyclical,,,Auto Manufacturers,Stock,Consumer Cyclical,Auto Manufacturers,Consumer Cyclical,Auto Manufacturers
+AVGO,Broadcom Inc.,AVGO,Broadcom Inc.,Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+LLY,Eli Lilly and Company,LLY,Eli Lilly and Company,Active,Healthcare,,,Drug Manufacturers - General,Stock,Healthcare,Drug Manufacturers - General,Healthcare,Drug Manufacturers - General
+JPM,JP Morgan Chase & Co.,JPM,JPMorgan Chase & Co.,Active,Financial Services,,,Banks - Diversified,Stock,Financial Services,Banks - Diversified,Financial Services,Banks - Diversified
+WMT,Walmart Inc.,WMT,Walmart Inc.,Active,Consumer Defensive,,,Discount Stores,Stock,Consumer Defensive,Discount Stores,Consumer Defensive,Discount Stores
+V,Visa Inc.,V,Visa Inc.,Active,Financial Services,,,Credit Services,Stock,Financial Services,Credit Services,Financial Services,Credit Services
+UNH,UnitedHealth Group Incorporated,UNH,UnitedHealth Group Incorporated,Active,Healthcare,,,Healthcare Plans,Stock,Healthcare,Healthcare Plans,Healthcare,Healthcare Plans
+XOM,Exxon Mobil Corporation,XOM,Exxon Mobil Corporation,Active,Energy,,,Oil & Gas Integrated,Stock,Energy,Oil & Gas Integrated,Energy,Oil & Gas Integrated
+ORCL,Oracle Corporation,ORCL,Oracle Corporation,Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+MA,Mastercard Incorporated,MA,Mastercard Incorporated,Active,Financial Services,,,Credit Services,Stock,Financial Services,Credit Services,Financial Services,Credit Services
+COST,Costco Wholesale Corporation,COST,Costco Wholesale Corporation,Active,Consumer Defensive,,,Discount Stores,Stock,Consumer Defensive,Discount Stores,Consumer Defensive,Discount Stores
+HD,"Home Depot, Inc. (The)",HD,"The Home Depot, Inc.",Active,Consumer Cyclical,,,Home Improvement Retail,Stock,Consumer Cyclical,Home Improvement Retail,Consumer Cyclical,Home Improvement Retail
+JNJ,Johnson & Johnson,JNJ,Johnson & Johnson,Active,Healthcare,,,Drug Manufacturers - General,Stock,Healthcare,Drug Manufacturers - General,Healthcare,Drug Manufacturers - General
+PG,Procter & Gamble Company (The),PG,The Procter & Gamble Company,Active,Consumer Defensive,,,Household & Personal Products,Stock,Consumer Defensive,Household & Personal Products,Consumer Defensive,Household & Personal Products
+ABBV,AbbVie Inc.,ABBV,AbbVie Inc.,Active,Healthcare,,,Drug Manufacturers - General,Stock,Healthcare,Drug Manufacturers - General,Healthcare,Drug Manufacturers - General
+BAC,Bank of America Corporation,BAC,Bank of America Corporation,Active,Financial Services,,,Banks - Diversified,Stock,Financial Services,Banks - Diversified,Financial Services,Banks - Diversified
+NFLX,"Netflix, Inc.",NFLX,"Netflix, Inc.",Active,Communication Services,,,Entertainment,Stock,Communication Services,Entertainment,Communication Services,Entertainment
+CRM,"Salesforce, Inc.",CRM,"Salesforce, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+CVX,Chevron Corporation,CVX,Chevron Corporation,Active,Energy,,,Oil & Gas Integrated,Stock,Energy,Oil & Gas Integrated,Energy,Oil & Gas Integrated
+KO,Coca-Cola Company (The),KO,The Coca-Cola Company,Active,Consumer Defensive,,,Beverages - Non-Alcoholic,Stock,Consumer Defensive,Beverages - Non-Alcoholic,Consumer Defensive,Beverages - Non-Alcoholic
+TMUS,"T-Mobile US, Inc.",TMUS,"T-Mobile US, Inc.",Active,Communication Services,,,Telecom Services,Stock,Communication Services,Telecom Services,Communication Services,Telecom Services
+MRK,"Merck & Company, Inc.",MRK,"Merck & Co., Inc.",Active,Healthcare,,,Drug Manufacturers - General,Stock,Healthcare,Drug Manufacturers - General,Healthcare,Drug Manufacturers - General
+WFC,Wells Fargo & Company,WFC,Wells Fargo & Company,Active,Financial Services,,,Banks - Diversified,Stock,Financial Services,Banks - Diversified,Financial Services,Banks - Diversified
+AMD,"Advanced Micro Devices, Inc.",AMD,"Advanced Micro Devices, Inc.",Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+CSCO,"Cisco Systems, Inc.",CSCO,"Cisco Systems, Inc.",Active,Technology,,,Communication Equipment,Stock,Technology,Communication Equipment,Technology,Communication Equipment
+PEP,"Pepsico, Inc.",PEP,"PepsiCo, Inc.",Active,Consumer Defensive,,,Beverages - Non-Alcoholic,Stock,Consumer Defensive,Beverages - Non-Alcoholic,Consumer Defensive,Beverages - Non-Alcoholic
+ACN,Accenture plc,ACN,Accenture plc,Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+ADBE,Adobe Inc.,ADBE,Adobe Inc.,Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+LIN,Linde plc,LIN,Linde plc,Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+TMO,Thermo Fisher Scientific Inc,TMO,Thermo Fisher Scientific Inc.,Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+BX,Blackstone Inc.,BX,Blackstone Inc.,Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+MS,Morgan Stanley,MS,Morgan Stanley,Active,Financial Services,,,Capital Markets,Stock,Financial Services,Capital Markets,Financial Services,Capital Markets
+MCD,McDonald's Corporation,MCD,McDonald's Corporation,Active,Consumer Cyclical,,,Restaurants,Stock,Consumer Cyclical,Restaurants,Consumer Cyclical,Restaurants
+AXP,American Express Company,AXP,American Express Company,Active,Financial Services,,,Credit Services,Stock,Financial Services,Credit Services,Financial Services,Credit Services
+NOW,"ServiceNow, Inc.",NOW,"ServiceNow, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+ABT,Abbott Laboratories,ABT,Abbott Laboratories,Active,Healthcare,,,Medical Devices,Stock,Healthcare,Medical Devices,Healthcare,Medical Devices
+CAT,"Caterpillar, Inc.",CAT,Caterpillar Inc.,Active,Industrials,,,Farm & Heavy Construction Machinery,Stock,Industrials,Farm & Heavy Construction Machinery,Industrials,Farm & Heavy Construction Machinery
+IBM,International Business Machines,IBM,International Business Machines Corporation,Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+TXN,Texas Instruments Incorporated,TXN,Texas Instruments Incorporated,Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+GE,GE Aerospace,GE,GE Aerospace,Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+PM,Philip Morris International Inc,PM,Philip Morris International Inc.,Active,Consumer Defensive,,,Tobacco,Stock,Consumer Defensive,Tobacco,Consumer Defensive,Tobacco
+QCOM,QUALCOMM Incorporated,QCOM,QUALCOMM Incorporated,Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+GS,"Goldman Sachs Group, Inc. (The)",GS,"The Goldman Sachs Group, Inc.",Active,Financial Services,,,Capital Markets,Stock,Financial Services,Capital Markets,Financial Services,Capital Markets
+ISRG,"Intuitive Surgical, Inc.",ISRG,"Intuitive Surgical, Inc.",Active,Healthcare,,,Medical Instruments & Supplies,Stock,Healthcare,Medical Instruments & Supplies,Healthcare,Medical Instruments & Supplies
+INTU,Intuit Inc.,INTU,Intuit Inc.,Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+DIS,Walt Disney Company (The),DIS,The Walt Disney Company,Active,Communication Services,,,Entertainment,Stock,Communication Services,Entertainment,Communication Services,Entertainment
+DHR,Danaher Corporation,DHR,Danaher Corporation,Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+VZ,Verizon Communications Inc.,VZ,Verizon Communications Inc.,Active,Communication Services,,,Telecom Services,Stock,Communication Services,Telecom Services,Communication Services,Telecom Services
+AMGN,Amgen Inc.,AMGN,Amgen Inc.,Active,Healthcare,,,Drug Manufacturers - General,Stock,Healthcare,Drug Manufacturers - General,Healthcare,Drug Manufacturers - General
+CMCSA,Comcast Corporation,CMCSA,Comcast Corporation,Active,Communication Services,,,Telecom Services,Stock,Communication Services,Telecom Services,Communication Services,Telecom Services
+BKNG,Booking Holdings Inc. Common St,BKNG,Booking Holdings Inc.,Active,Consumer Cyclical,,,Travel Services,Stock,Consumer Cyclical,Travel Services,Consumer Cyclical,Travel Services
+RTX,RTX Corporation,RTX,RTX Corporation,Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+T,AT&T Inc.,T,AT&T Inc.,Active,Communication Services,,,Telecom Services,Stock,Communication Services,Telecom Services,Communication Services,Telecom Services
+UBER,"Uber Technologies, Inc.",UBER,"Uber Technologies, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+PFE,"Pfizer, Inc.",PFE,Pfizer Inc.,Active,Healthcare,,,Drug Manufacturers - General,Stock,Healthcare,Drug Manufacturers - General,Healthcare,Drug Manufacturers - General
+AMAT,"Applied Materials, Inc.",AMAT,"Applied Materials, Inc.",Active,Technology,,,Semiconductor Equipment & Materials,Stock,Technology,Semiconductor Equipment & Materials,Technology,Semiconductor Equipment & Materials
+NEE,"NextEra Energy, Inc.",NEE,"NextEra Energy, Inc.",Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+BLK,"BlackRock, Inc.",BLK,"BlackRock, Inc.",Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+SPGI,S&P Global Inc.,SPGI,S&P Global Inc.,Active,Financial Services,,,Financial Data & Stock Exchanges,Stock,Financial Services,Financial Data & Stock Exchanges,Financial Services,Financial Data & Stock Exchanges
+PGR,Progressive Corporation (The),PGR,The Progressive Corporation,Active,Financial Services,,,Insurance - Property & Casualty,Stock,Financial Services,Insurance - Property & Casualty,Financial Services,Insurance - Property & Casualty
+UNP,Union Pacific Corporation,UNP,Union Pacific Corporation,Active,Industrials,,,Railroads,Stock,Industrials,Railroads,Industrials,Railroads
+LOW,"Lowe's Companies, Inc.",LOW,"Lowe's Companies, Inc.",Active,Consumer Cyclical,,,Home Improvement Retail,Stock,Consumer Cyclical,Home Improvement Retail,Consumer Cyclical,Home Improvement Retail
+ETN,"Eaton Corporation, PLC",ETN,Eaton Corporation plc,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+HON,Honeywell International Inc.,HON,Honeywell International Inc.,Active,Industrials,,,Conglomerates,Stock,Industrials,Conglomerates,Industrials,Conglomerates
+SYK,Stryker Corporation,SYK,Stryker Corporation,Active,Healthcare,,,Medical Devices,Stock,Healthcare,Medical Devices,Healthcare,Medical Devices
+KKR,KKR & Co. Inc.,KKR,KKR & Co. Inc.,Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+SCHW,Charles Schwab Corporation (The,SCHW,The Charles Schwab Corporation,Active,Financial Services,,,Capital Markets,Stock,Financial Services,Capital Markets,Financial Services,Capital Markets
+ANET,"Arista Networks, Inc.",ANET,"Arista Networks, Inc.",Active,Technology,,,Computer Hardware,Stock,Technology,Computer Hardware,Technology,Computer Hardware
+LMT,Lockheed Martin Corporation,LMT,Lockheed Martin Corporation,Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+COP,ConocoPhillips,COP,ConocoPhillips,Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+C,"Citigroup, Inc.",C,Citigroup Inc.,Active,Financial Services,,,Banks - Diversified,Stock,Financial Services,Banks - Diversified,Financial Services,Banks - Diversified
+TJX,"TJX Companies, Inc. (The)",TJX,"The TJX Companies, Inc.",Active,Consumer Cyclical,,,Apparel Retail,Stock,Consumer Cyclical,Apparel Retail,Consumer Cyclical,Apparel Retail
+BSX,Boston Scientific Corporation,BSX,Boston Scientific Corporation,Active,Healthcare,,,Medical Devices,Stock,Healthcare,Medical Devices,Healthcare,Medical Devices
+VRTX,Vertex Pharmaceuticals Incorpor,VRTX,Vertex Pharmaceuticals Incorporated,Active,Healthcare,,,Biotechnology,Stock,Healthcare,Biotechnology,Healthcare,Biotechnology
+PLTR,Palantir Technologies Inc.,PLTR,Palantir Technologies Inc.,Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+PANW,"Palo Alto Networks, Inc.",PANW,"Palo Alto Networks, Inc.",Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+ADP,"Automatic Data Processing, Inc.",ADP,"Automatic Data Processing, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+MU,"Micron Technology, Inc.",MU,"Micron Technology, Inc.",Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+FI,"Fiserv, Inc.",FI,"Fiserv, Inc.",Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+MDT,Medtronic plc.,MDT,Medtronic plc,Active,Healthcare,,,Medical Devices,Stock,Healthcare,Medical Devices,Healthcare,Medical Devices
+UPS,"United Parcel Service, Inc.",UPS,"United Parcel Service, Inc.",Active,Industrials,,,Integrated Freight & Logistics,Stock,Industrials,Integrated Freight & Logistics,Industrials,Integrated Freight & Logistics
+GILD,"Gilead Sciences, Inc.",GILD,"Gilead Sciences, Inc.",Active,Healthcare,,,Drug Manufacturers - General,Stock,Healthcare,Drug Manufacturers - General,Healthcare,Drug Manufacturers - General
+CB,Chubb Limited,CB,Chubb Limited,Active,Financial Services,,,Insurance - Property & Casualty,Stock,Financial Services,Insurance - Property & Casualty,Financial Services,Insurance - Property & Casualty
+ADI,"Analog Devices, Inc.",ADI,"Analog Devices, Inc.",Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+BMY,Bristol-Myers Squibb Company,BMY,Bristol-Myers Squibb Company,Active,Healthcare,,,Drug Manufacturers - General,Stock,Healthcare,Drug Manufacturers - General,Healthcare,Drug Manufacturers - General
+NKE,"Nike, Inc.",NKE,"NIKE, Inc.",Active,Consumer Cyclical,,,Footwear & Accessories,Stock,Consumer Cyclical,Footwear & Accessories,Consumer Cyclical,Footwear & Accessories
+DE,Deere & Company,DE,Deere & Company,Active,Industrials,,,Farm & Heavy Construction Machinery,Stock,Industrials,Farm & Heavy Construction Machinery,Industrials,Farm & Heavy Construction Machinery
+BA,Boeing Company (The),BA,The Boeing Company,Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+MMC,"Marsh & McLennan Companies, Inc",MMC,"Marsh & McLennan Companies, Inc.",Active,Financial Services,,,Insurance Brokers,Stock,Financial Services,Insurance Brokers,Financial Services,Insurance Brokers
+SBUX,Starbucks Corporation,SBUX,Starbucks Corporation,Active,Consumer Cyclical,,,Restaurants,Stock,Consumer Cyclical,Restaurants,Consumer Cyclical,Restaurants
+INTC,Intel Corporation,INTC,Intel Corporation,Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+PLD,"Prologis, Inc.",PLD,"Prologis, Inc.",Active,Real Estate,,,REIT - Industrial,Stock,Real Estate,REIT - Industrial,Real Estate,REIT - Industrial
+ELV,"Elevance Health, Inc.",ELV,"Elevance Health, Inc.",Active,Healthcare,,,Healthcare Plans,Stock,Healthcare,Healthcare Plans,Healthcare,Healthcare Plans
+LRCX,Lam Research Corporation,LRCX,Lam Research Corporation,Active,Technology,,,Semiconductor Equipment & Materials,Stock,Technology,Semiconductor Equipment & Materials,Technology,Semiconductor Equipment & Materials
+DELL,Dell Technologies Inc.,DELL,Dell Technologies Inc.,Active,Technology,,,Computer Hardware,Stock,Technology,Computer Hardware,Technology,Computer Hardware
+SHW,Sherwin-Williams Company (The),SHW,The Sherwin-Williams Company,Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+SO,Southern Company (The),SO,The Southern Company,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+GEV,GE Vernova Inc.,GEV,GE Vernova Inc.,Active,Utilities,,,Utilities - Renewable,Stock,Utilities,Utilities - Renewable,Utilities,Utilities - Renewable
+AMT,American Tower Corporation (REI,AMT,American Tower Corporation,Active,Real Estate,,,REIT - Specialty,Stock,Real Estate,REIT - Specialty,Real Estate,REIT - Specialty
+MO,"Altria Group, Inc.",MO,"Altria Group, Inc.",Active,Consumer Defensive,,,Tobacco,Stock,Consumer Defensive,Tobacco,Consumer Defensive,Tobacco
+PH,Parker-Hannifin Corporation,PH,Parker-Hannifin Corporation,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+REGN,"Regeneron Pharmaceuticals, Inc.",REGN,"Regeneron Pharmaceuticals, Inc.",Active,Healthcare,,,Biotechnology,Stock,Healthcare,Biotechnology,Healthcare,Biotechnology
+KLAC,KLA Corporation,KLAC,KLA Corporation,Active,Technology,,,Semiconductor Equipment & Materials,Stock,Technology,Semiconductor Equipment & Materials,Technology,Semiconductor Equipment & Materials
+ICE,Intercontinental Exchange Inc.,ICE,"Intercontinental Exchange, Inc.",Active,Financial Services,,,Financial Data & Stock Exchanges,Stock,Financial Services,Financial Data & Stock Exchanges,Financial Services,Financial Data & Stock Exchanges
+ABNB,"Airbnb, Inc.",ABNB,"Airbnb, Inc.",Active,Consumer Cyclical,,,Travel Services,Stock,Consumer Cyclical,Travel Services,Consumer Cyclical,Travel Services
+MDLZ,"Mondelez International, Inc.",MDLZ,"Mondelez International, Inc.",Active,Consumer Defensive,,,Confectioners,Stock,Consumer Defensive,Confectioners,Consumer Defensive,Confectioners
+HCA,"HCA Healthcare, Inc.",HCA,"HCA Healthcare, Inc.",Active,Healthcare,,,Medical Care Facilities,Stock,Healthcare,Medical Care Facilities,Healthcare,Medical Care Facilities
+TT,Trane Technologies plc,TT,Trane Technologies plc,Active,Industrials,,,Building Products & Equipment,Stock,Industrials,Building Products & Equipment,Industrials,Building Products & Equipment
+DUK,Duke Energy Corporation (Holdin,DUK,Duke Energy Corporation,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+WM,"Waste Management, Inc.",WM,"Waste Management, Inc.",Active,Industrials,,,Waste Management,Stock,Industrials,Waste Management,Industrials,Waste Management
+CI,The Cigna Group,CI,The Cigna Group,Active,Healthcare,,,Healthcare Plans,Stock,Healthcare,Healthcare Plans,Healthcare,Healthcare Plans
+CTAS,Cintas Corporation,CTAS,Cintas Corporation,Active,Industrials,,,Specialty Business Services,Stock,Industrials,Specialty Business Services,Industrials,Specialty Business Services
+APH,Amphenol Corporation,APH,Amphenol Corporation,Active,Technology,,,Electronic Components,Stock,Technology,Electronic Components,Technology,Electronic Components
+EQIX,"Equinix, Inc.",EQIX,"Equinix, Inc.",Active,Real Estate,,,REIT - Specialty,Stock,Real Estate,REIT - Specialty,Real Estate,REIT - Specialty
+SNPS,"Synopsys, Inc.",SNPS,"Synopsys, Inc.",Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+GD,General Dynamics Corporation,GD,General Dynamics Corporation,Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+MCO,Moody's Corporation,MCO,Moody's Corporation,Active,Financial Services,,,Financial Data & Stock Exchanges,Stock,Financial Services,Financial Data & Stock Exchanges,Financial Services,Financial Data & Stock Exchanges
+WELL,Welltower Inc.,WELL,Welltower Inc.,Active,Real Estate,,,REIT - Healthcare Facilities,Stock,Real Estate,REIT - Healthcare Facilities,Real Estate,REIT - Healthcare Facilities
+AON,Aon plc,AON,Aon plc,Active,Financial Services,,,Insurance Brokers,Stock,Financial Services,Insurance Brokers,Financial Services,Insurance Brokers
+PYPL,"PayPal Holdings, Inc.",PYPL,"PayPal Holdings, Inc.",Active,Financial Services,,,Credit Services,Stock,Financial Services,Credit Services,Financial Services,Credit Services
+CDNS,"Cadence Design Systems, Inc.",CDNS,"Cadence Design Systems, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+ITW,Illinois Tool Works Inc.,ITW,Illinois Tool Works Inc.,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+PNC,"PNC Financial Services Group, I",PNC,"The PNC Financial Services Group, Inc.",Active,Financial Services,,,Banks - Regional,Stock,Financial Services,Banks - Regional,Financial Services,Banks - Regional
+USB,U.S. Bancorp,USB,U.S. Bancorp,Active,Financial Services,,,Banks - Regional,Stock,Financial Services,Banks - Regional,Financial Services,Banks - Regional
+CME,CME Group Inc.,CME,CME Group Inc.,Active,Financial Services,,,Financial Data & Stock Exchanges,Stock,Financial Services,Financial Data & Stock Exchanges,Financial Services,Financial Data & Stock Exchanges
+CMG,"Chipotle Mexican Grill, Inc.",CMG,"Chipotle Mexican Grill, Inc.",Active,Consumer Cyclical,,,Restaurants,Stock,Consumer Cyclical,Restaurants,Consumer Cyclical,Restaurants
+CRWD,"CrowdStrike Holdings, Inc.",CRWD,"CrowdStrike Holdings, Inc.",Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+MSI,"Motorola Solutions, Inc.",MSI,"Motorola Solutions, Inc.",Active,Technology,,,Communication Equipment,Stock,Technology,Communication Equipment,Technology,Communication Equipment
+TDG,Transdigm Group Incorporated,TDG,TransDigm Group Incorporated,Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+CVS,CVS Health Corporation,CVS,CVS Health Corporation,Active,Healthcare,,,Healthcare Plans,Stock,Healthcare,Healthcare Plans,Healthcare,Healthcare Plans
+ZTS,Zoetis Inc.,ZTS,Zoetis Inc.,Active,Healthcare,,,Drug Manufacturers - Specialty & Generic,Stock,Healthcare,Drug Manufacturers - Specialty & Generic,Healthcare,Drug Manufacturers - Specialty & Generic
+MAR,Marriott International,MAR,"Marriott International, Inc.",Active,Consumer Cyclical,,,Lodging,Stock,Consumer Cyclical,Lodging,Consumer Cyclical,Lodging
+NOC,Northrop Grumman Corporation,NOC,Northrop Grumman Corporation,Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+CL,Colgate-Palmolive Company,CL,Colgate-Palmolive Company,Active,Consumer Defensive,,,Household & Personal Products,Stock,Consumer Defensive,Household & Personal Products,Consumer Defensive,Household & Personal Products
+CEG,Constellation Energy Corporatio,CEG,Constellation Energy Corporation,Active,Utilities,,,Utilities - Renewable,Stock,Utilities,Utilities - Renewable,Utilities,Utilities - Renewable
+MMM,3M Company,MMM,3M Company,Active,Industrials,,,Conglomerates,Stock,Industrials,Conglomerates,Industrials,Conglomerates
+COF,Capital One Financial Corporati,COF,Capital One Financial Corporation,Active,Financial Services,,,Credit Services,Stock,Financial Services,Credit Services,Financial Services,Credit Services
+EMR,Emerson Electric Company,EMR,Emerson Electric Co.,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+EOG,"EOG Resources, Inc.",EOG,"EOG Resources, Inc.",Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+ORLY,"O'Reilly Automotive, Inc.",ORLY,"O'Reilly Automotive, Inc.",Active,Consumer Cyclical,,,Specialty Retail,Stock,Consumer Cyclical,Specialty Retail,Consumer Cyclical,Specialty Retail
+MCK,McKesson Corporation,MCK,McKesson Corporation,Active,Healthcare,,,Medical Distribution,Stock,Healthcare,Medical Distribution,Healthcare,Medical Distribution
+CSX,CSX Corporation,CSX,CSX Corporation,Active,Industrials,,,Railroads,Stock,Industrials,Railroads,Industrials,Railroads
+BDX,"Becton, Dickinson and Company",BDX,"Becton, Dickinson and Company",Active,Healthcare,,,Medical Instruments & Supplies,Stock,Healthcare,Medical Instruments & Supplies,Healthcare,Medical Instruments & Supplies
+ECL,Ecolab Inc.,ECL,Ecolab Inc.,Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+FDX,FedEx Corporation,FDX,FedEx Corporation,Active,Industrials,,,Integrated Freight & Logistics,Stock,Industrials,Integrated Freight & Logistics,Industrials,Integrated Freight & Logistics
+APD,"Air Products and Chemicals, Inc",APD,"Air Products and Chemicals, Inc.",Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+TGT,Target Corporation,TGT,Target Corporation,Active,Consumer Defensive,,,Discount Stores,Stock,Consumer Defensive,Discount Stores,Consumer Defensive,Discount Stores
+CARR,Carrier Global Corporation,CARR,Carrier Global Corporation,Active,Industrials,,,Building Products & Equipment,Stock,Industrials,Building Products & Equipment,Industrials,Building Products & Equipment
+WMB,"Williams Companies, Inc. (The)",WMB,"The Williams Companies, Inc.",Active,Energy,,,Oil & Gas Midstream,Stock,Energy,Oil & Gas Midstream,Energy,Oil & Gas Midstream
+FCX,"Freeport-McMoRan, Inc.",FCX,Freeport-McMoRan Inc.,Active,Basic Materials,,,Copper,Stock,Basic Materials,Copper,Basic Materials,Copper
+SPG,"Simon Property Group, Inc.",SPG,"Simon Property Group, Inc.",Active,Real Estate,,,REIT - Retail,Stock,Real Estate,REIT - Retail,Real Estate,REIT - Retail
+ADSK,"Autodesk, Inc.",ADSK,"Autodesk, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+RSG,"Republic Services, Inc.",RSG,"Republic Services, Inc.",Active,Industrials,,,Waste Management,Stock,Industrials,Waste Management,Industrials,Waste Management
+AJG,Arthur J. Gallagher & Co.,AJG,Arthur J. Gallagher & Co.,Active,Financial Services,,,Insurance Brokers,Stock,Financial Services,Insurance Brokers,Financial Services,Insurance Brokers
+NSC,Norfolk Southern Corporation,NSC,Norfolk Southern Corporation,Active,Industrials,,,Railroads,Stock,Industrials,Railroads,Industrials,Railroads
+TFC,Truist Financial Corporation,TFC,Truist Financial Corporation,Active,Financial Services,,,Banks - Regional,Stock,Financial Services,Banks - Regional,Financial Services,Banks - Regional
+FTNT,"Fortinet, Inc.",FTNT,"Fortinet, Inc.",Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+SLB,Schlumberger N.V.,SLB,Schlumberger Limited,Active,Energy,,,Oil & Gas Equipment & Services,Stock,Energy,Oil & Gas Equipment & Services,Energy,Oil & Gas Equipment & Services
+RCL,Royal Caribbean Cruises Ltd.,RCL,Royal Caribbean Cruises Ltd.,Active,Consumer Cyclical,,,Travel Services,Stock,Consumer Cyclical,Travel Services,Consumer Cyclical,Travel Services
+PCAR,PACCAR Inc.,PCAR,PACCAR Inc,Active,Industrials,,,Farm & Heavy Construction Machinery,Stock,Industrials,Farm & Heavy Construction Machinery,Industrials,Farm & Heavy Construction Machinery
+ROP,"Roper Technologies, Inc.",ROP,"Roper Technologies, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+GM,General Motors Company,GM,General Motors Company,Active,Consumer Cyclical,,,Auto Manufacturers,Stock,Consumer Cyclical,Auto Manufacturers,Consumer Cyclical,Auto Manufacturers
+AFL,AFLAC Incorporated,AFL,Aflac Incorporated,Active,Financial Services,,,Insurance - Life,Stock,Financial Services,Insurance - Life,Financial Services,Insurance - Life
+HLT,Hilton Worldwide Holdings Inc.,HLT,Hilton Worldwide Holdings Inc.,Active,Consumer Cyclical,,,Lodging,Stock,Consumer Cyclical,Lodging,Consumer Cyclical,Lodging
+OKE,"ONEOK, Inc.",OKE,"ONEOK, Inc.",Active,Energy,,,Oil & Gas Midstream,Stock,Energy,Oil & Gas Midstream,Energy,Oil & Gas Midstream
+NXPI,NXP Semiconductors N.V.,NXPI,NXP Semiconductors N.V.,Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+DLR,"Digital Realty Trust, Inc.",DLR,"Digital Realty Trust, Inc.",Active,Real Estate,,,REIT - Specialty,Stock,Real Estate,REIT - Specialty,Real Estate,REIT - Specialty
+KMI,"Kinder Morgan, Inc.",KMI,"Kinder Morgan, Inc.",Active,Energy,,,Oil & Gas Midstream,Stock,Energy,Oil & Gas Midstream,Energy,Oil & Gas Midstream
+GWW,"W.W. Grainger, Inc.",GWW,"W.W. Grainger, Inc.",Active,Industrials,,,Industrial Distribution,Stock,Industrials,Industrial Distribution,Industrials,Industrial Distribution
+CHTR,"Charter Communications, Inc.",CHTR,"Charter Communications, Inc.",Active,Communication Services,,,Telecom Services,Stock,Communication Services,Telecom Services,Communication Services,Telecom Services
+URI,"United Rentals, Inc.",URI,"United Rentals, Inc.",Active,Industrials,,,Rental & Leasing Services,Stock,Industrials,Rental & Leasing Services,Industrials,Rental & Leasing Services
+TRV,"The Travelers Companies, Inc.",TRV,"The Travelers Companies, Inc.",Active,Financial Services,,,Insurance - Property & Casualty,Stock,Financial Services,Insurance - Property & Casualty,Financial Services,Insurance - Property & Casualty
+MET,"MetLife, Inc.",MET,"MetLife, Inc.",Active,Financial Services,,,Insurance - Life,Stock,Financial Services,Insurance - Life,Financial Services,Insurance - Life
+PSA,Public Storage,PSA,Public Storage,Active,Real Estate,,,REIT - Industrial,Stock,Real Estate,REIT - Industrial,Real Estate,REIT - Industrial
+BK,The Bank of New York Mellon Cor,BK,The Bank of New York Mellon Corporation,Active,Financial Services,,,Banks - Diversified,Stock,Financial Services,Banks - Diversified,Financial Services,Banks - Diversified
+SRE,DBA Sempra,SRE,Sempra,Active,Utilities,,,Utilities - Diversified,Stock,Utilities,Utilities - Diversified,Utilities,Utilities - Diversified
+AMP,"Ameriprise Financial, Inc.",AMP,"Ameriprise Financial, Inc.",Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+JCI,Johnson Controls International ,JCI,Johnson Controls International plc,Active,Industrials,,,Building Products & Equipment,Stock,Industrials,Building Products & Equipment,Industrials,Building Products & Equipment
+AZO,"AutoZone, Inc.",AZO,"AutoZone, Inc.",Active,Consumer Cyclical,,,Specialty Retail,Stock,Consumer Cyclical,Specialty Retail,Consumer Cyclical,Specialty Retail
+DHI,"D.R. Horton, Inc.",DHI,"D.R. Horton, Inc.",Active,Consumer Cyclical,,,Residential Construction,Stock,Consumer Cyclical,Residential Construction,Consumer Cyclical,Residential Construction
+FANG,"Diamondback Energy, Inc.",FANG,"Diamondback Energy, Inc.",Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+PAYX,"Paychex, Inc.",PAYX,"Paychex, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+CPRT,"Copart, Inc.",CPRT,"Copart, Inc.",Active,Industrials,,,Specialty Business Services,Stock,Industrials,Specialty Business Services,Industrials,Specialty Business Services
+MNST,Monster Beverage Corporation,MNST,Monster Beverage Corporation,Active,Consumer Defensive,,,Beverages - Non-Alcoholic,Stock,Consumer Defensive,Beverages - Non-Alcoholic,Consumer Defensive,Beverages - Non-Alcoholic
+PCG,Pacific Gas & Electric Co.,PCG,PG&E Corporation,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+PSX,Phillips 66,PSX,Phillips 66,Active,Energy,,,Oil & Gas Refining & Marketing,Stock,Energy,Oil & Gas Refining & Marketing,Energy,Oil & Gas Refining & Marketing
+FICO,Fair Isaac Corporation,FICO,Fair Isaac Corporation,Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+AEP,American Electric Power Company,AEP,"American Electric Power Company, Inc.",Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+NEM,Newmont Corporation,NEM,Newmont Corporation,Active,Basic Materials,,,Gold,Stock,Basic Materials,Gold,Basic Materials,Gold
+ALL,Allstate Corporation (The),ALL,The Allstate Corporation,Active,Financial Services,,,Insurance - Property & Casualty,Stock,Financial Services,Insurance - Property & Casualty,Financial Services,Insurance - Property & Casualty
+MPC,Marathon Petroleum Corporation,MPC,Marathon Petroleum Corporation,Active,Energy,,,Oil & Gas Refining & Marketing,Stock,Energy,Oil & Gas Refining & Marketing,Energy,Oil & Gas Refining & Marketing
+O,Realty Income Corporation,O,Realty Income Corporation,Active,Real Estate,,,REIT - Retail,Stock,Real Estate,REIT - Retail,Real Estate,REIT - Retail
+ODFL,"Old Dominion Freight Line, Inc.",ODFL,"Old Dominion Freight Line, Inc.",Active,Industrials,,,Trucking,Stock,Industrials,Trucking,Industrials,Trucking
+CMI,Cummins Inc.,CMI,Cummins Inc.,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+LHX,"L3Harris Technologies, Inc.",LHX,"L3Harris Technologies, Inc.",Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+AIG,"American International Group, I",AIG,"American International Group, Inc.",Active,Financial Services,,,Insurance - Diversified,Stock,Financial Services,Insurance - Diversified,Financial Services,Insurance - Diversified
+COR,"Cencora, Inc.",COR,"Cencora, Inc.",Active,Healthcare,,,Medical Distribution,Stock,Healthcare,Medical Distribution,Healthcare,Medical Distribution
+OXY,Occidental Petroleum Corporatio,OXY,Occidental Petroleum Corporation,Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+D,"Dominion Energy, Inc.",D,"Dominion Energy, Inc.",Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+FAST,Fastenal Company,FAST,Fastenal Company,Active,Industrials,,,Industrial Distribution,Stock,Industrials,Industrial Distribution,Industrials,Industrial Distribution
+HWM,Howmet Aerospace Inc.,HWM,Howmet Aerospace Inc.,Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+FIS,Fidelity National Information S,FIS,"Fidelity National Information Services, Inc.",Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+TEL,TE Connectivity plc,TEL,TE Connectivity plc,Active,Technology,,,Electronic Components,Stock,Technology,Electronic Components,Technology,Electronic Components
+ROST,"Ross Stores, Inc.",ROST,"Ross Stores, Inc.",Active,Consumer Cyclical,,,Apparel Retail,Stock,Consumer Cyclical,Apparel Retail,Consumer Cyclical,Apparel Retail
+PWR,"Quanta Services, Inc.",PWR,"Quanta Services, Inc.",Active,Industrials,,,Engineering & Construction,Stock,Industrials,Engineering & Construction,Industrials,Engineering & Construction
+DFS,Discover Financial Services,DFS,Discover Financial Services,Active,Financial Services,,,Credit Services,Stock,Financial Services,Credit Services,Financial Services,Credit Services
+PRU,"Prudential Financial, Inc.",PRU,"Prudential Financial, Inc.",Active,Financial Services,,,Insurance - Life,Stock,Financial Services,Insurance - Life,Financial Services,Insurance - Life
+LEN,Lennar Corporation,LEN,Lennar Corporation,Active,Consumer Cyclical,,,Residential Construction,Stock,Consumer Cyclical,Residential Construction,Consumer Cyclical,Residential Construction
+MSCI,MSCI Inc.,MSCI,MSCI Inc.,Active,Financial Services,,,Financial Data & Stock Exchanges,Stock,Financial Services,Financial Data & Stock Exchanges,Financial Services,Financial Data & Stock Exchanges
+CCI,Crown Castle Inc.,CCI,Crown Castle Inc.,Active,Real Estate,,,REIT - Specialty,Stock,Real Estate,REIT - Specialty,Real Estate,REIT - Specialty
+KDP,Keurig Dr Pepper Inc.,KDP,Keurig Dr Pepper Inc.,Active,Consumer Defensive,,,Beverages - Non-Alcoholic,Stock,Consumer Defensive,Beverages - Non-Alcoholic,Consumer Defensive,Beverages - Non-Alcoholic
+NDAQ,"Nasdaq, Inc.",NDAQ,"Nasdaq, Inc.",Active,Financial Services,,,Financial Data & Stock Exchanges,Stock,Financial Services,Financial Data & Stock Exchanges,Financial Services,Financial Data & Stock Exchanges
+F,Ford Motor Company,F,Ford Motor Company,Active,Consumer Cyclical,,,Auto Manufacturers,Stock,Consumer Cyclical,Auto Manufacturers,Consumer Cyclical,Auto Manufacturers
+AME,"AMETEK, Inc.",AME,"AMETEK, Inc.",Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+HES,Hess Corporation,HES,Hess Corporation,Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+VLO,Valero Energy Corporation,VLO,Valero Energy Corporation,Active,Energy,,,Oil & Gas Refining & Marketing,Stock,Energy,Oil & Gas Refining & Marketing,Energy,Oil & Gas Refining & Marketing
+KMB,Kimberly-Clark Corporation,KMB,Kimberly-Clark Corporation,Active,Consumer Defensive,,,Household & Personal Products,Stock,Consumer Defensive,Household & Personal Products,Consumer Defensive,Household & Personal Products
+VST,Vistra Corp.,VST,Vistra Corp.,Active,Utilities,,,Utilities - Independent Power Producers,Stock,Utilities,Utilities - Independent Power Producers,Utilities,Utilities - Independent Power Producers
+KR,Kroger Company (The),KR,The Kroger Co.,Active,Consumer Defensive,,,Grocery Stores,Stock,Consumer Defensive,Grocery Stores,Consumer Defensive,Grocery Stores
+KVUE,Kenvue Inc.,KVUE,Kenvue Inc.,Active,Consumer Defensive,,,Household & Personal Products,Stock,Consumer Defensive,Household & Personal Products,Consumer Defensive,Household & Personal Products
+CTVA,"Corteva, Inc.",CTVA,"Corteva, Inc.",Active,Basic Materials,,,Agricultural Inputs,Stock,Basic Materials,Agricultural Inputs,Basic Materials,Agricultural Inputs
+BKR,Baker Hughes Company,BKR,Baker Hughes Company,Active,Energy,,,Oil & Gas Equipment & Services,Stock,Energy,Oil & Gas Equipment & Services,Energy,Oil & Gas Equipment & Services
+PEG,Public Service Enterprise Group,PEG,Public Service Enterprise Group Incorporated,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+STZ,"Constellation Brands, Inc.",STZ,"Constellation Brands, Inc.",Active,Consumer Defensive,,,Beverages - Brewers,Stock,Consumer Defensive,Beverages - Brewers,Consumer Defensive,Beverages - Brewers
+IR,Ingersoll Rand Inc.,IR,Ingersoll Rand Inc.,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+EA,Electronic Arts Inc.,EA,Electronic Arts Inc.,Active,Communication Services,,,Electronic Gaming & Multimedia,Stock,Communication Services,Electronic Gaming & Multimedia,Communication Services,Electronic Gaming & Multimedia
+IT,"Gartner, Inc.",IT,"Gartner, Inc.",Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+GLW,Corning Incorporated,GLW,Corning Incorporated,Active,Technology,,,Electronic Components,Stock,Technology,Electronic Components,Technology,Electronic Components
+TRGP,"Targa Resources, Inc.",TRGP,Targa Resources Corp.,Active,Energy,,,Oil & Gas Midstream,Stock,Energy,Oil & Gas Midstream,Energy,Oil & Gas Midstream
+KHC,The Kraft Heinz Company,KHC,The Kraft Heinz Company,Active,Consumer Defensive,,,Packaged Foods,Stock,Consumer Defensive,Packaged Foods,Consumer Defensive,Packaged Foods
+GRMN,Garmin Ltd.,GRMN,Garmin Ltd.,Active,Technology,,,Scientific & Technical Instruments,Stock,Technology,Scientific & Technical Instruments,Technology,Scientific & Technical Instruments
+DAL,"Delta Air Lines, Inc.",DAL,"Delta Air Lines, Inc.",Active,Industrials,,,Airlines,Stock,Industrials,Airlines,Industrials,Airlines
+OTIS,Otis Worldwide Corporation,OTIS,Otis Worldwide Corporation,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+IQV,"IQVIA Holdings, Inc.",IQV,IQVIA Holdings Inc.,Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+NUE,Nucor Corporation,NUE,Nucor Corporation,Active,Basic Materials,,,Steel,Stock,Basic Materials,Steel,Basic Materials,Steel
+GEHC,GE HealthCare Technologies Inc.,GEHC,GE HealthCare Technologies Inc.,Active,Healthcare,,,Health Information Services,Stock,Healthcare,Health Information Services,Healthcare,Health Information Services
+EW,Edwards Lifesciences Corporatio,EW,Edwards Lifesciences Corporation,Active,Healthcare,,,Medical Devices,Stock,Healthcare,Medical Devices,Healthcare,Medical Devices
+MCHP,Microchip Technology Incorporat,MCHP,Microchip Technology Incorporated,Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+CBRE,CBRE Group Inc,CBRE,"CBRE Group, Inc.",Active,Real Estate,,,Real Estate Services,Stock,Real Estate,Real Estate Services,Real Estate,Real Estate Services
+A,"Agilent Technologies, Inc.",A,"Agilent Technologies, Inc.",Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+VRSK,"Verisk Analytics, Inc.",VRSK,"Verisk Analytics, Inc.",Active,Industrials,,,Consulting Services,Stock,Industrials,Consulting Services,Industrials,Consulting Services
+CTSH,Cognizant Technology Solutions ,CTSH,Cognizant Technology Solutions Corporation,Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+EXC,Exelon Corporation,EXC,Exelon Corporation,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+LULU,lululemon athletica inc.,LULU,Lululemon Athletica Inc.,Active,Consumer Cyclical,,,Apparel Retail,Stock,Consumer Cyclical,Apparel Retail,Consumer Cyclical,Apparel Retail
+VMC,Vulcan Materials Company (Holdi,VMC,Vulcan Materials Company,Active,Basic Materials,,,Building Materials,Stock,Basic Materials,Building Materials,Basic Materials,Building Materials
+MPWR,"Monolithic Power Systems, Inc.",MPWR,"Monolithic Power Systems, Inc.",Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+ACGL,Arch Capital Group Ltd.,ACGL,Arch Capital Group Ltd.,Active,Financial Services,,,Insurance - Diversified,Stock,Financial Services,Insurance - Diversified,Financial Services,Insurance - Diversified
+XEL,Xcel Energy Inc.,XEL,Xcel Energy Inc.,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+SYY,Sysco Corporation,SYY,Sysco Corporation,Active,Consumer Defensive,,,Food Distribution,Stock,Consumer Defensive,Food Distribution,Consumer Defensive,Food Distribution
+MLM,"Martin Marietta Materials, Inc.",MLM,"Martin Marietta Materials, Inc.",Active,Basic Materials,,,Building Materials,Stock,Basic Materials,Building Materials,Basic Materials,Building Materials
+YUM,"Yum! Brands, Inc.",YUM,"Yum! Brands, Inc.",Active,Consumer Cyclical,,,Restaurants,Stock,Consumer Cyclical,Restaurants,Consumer Cyclical,Restaurants
+LVS,Las Vegas Sands Corp.,LVS,Las Vegas Sands Corp.,Active,Consumer Cyclical,,,Resorts & Casinos,Stock,Consumer Cyclical,Resorts & Casinos,Consumer Cyclical,Resorts & Casinos
+GIS,"General Mills, Inc.",GIS,"General Mills, Inc.",Active,Consumer Defensive,,,Packaged Foods,Stock,Consumer Defensive,Packaged Foods,Consumer Defensive,Packaged Foods
+RMD,ResMed Inc.,RMD,ResMed Inc.,Active,Healthcare,,,Medical Instruments & Supplies,Stock,Healthcare,Medical Instruments & Supplies,Healthcare,Medical Instruments & Supplies
+MTB,M&T Bank Corporation,MTB,M&T Bank Corporation,Active,Financial Services,,,Banks - Regional,Stock,Financial Services,Banks - Regional,Financial Services,Banks - Regional
+HSY,The Hershey Company,HSY,The Hershey Company,Active,Consumer Defensive,,,Confectioners,Stock,Consumer Defensive,Confectioners,Consumer Defensive,Confectioners
+HPQ,HP Inc.,HPQ,HP Inc.,Active,Technology,,,Computer Hardware,Stock,Technology,Computer Hardware,Technology,Computer Hardware
+EXR,Extra Space Storage Inc,EXR,Extra Space Storage Inc.,Active,Real Estate,,,REIT - Industrial,Stock,Real Estate,REIT - Industrial,Real Estate,REIT - Industrial
+DD,"DuPont de Nemours, Inc.",DD,"DuPont de Nemours, Inc.",Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+HUM,Humana Inc.,HUM,Humana Inc.,Active,Healthcare,,,Healthcare Plans,Stock,Healthcare,Healthcare Plans,Healthcare,Healthcare Plans
+AXON,"Axon Enterprise, Inc.",AXON,"Axon Enterprise, Inc.",Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+IDXX,"IDEXX Laboratories, Inc.",IDXX,"IDEXX Laboratories, Inc.",Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+WAB,Westinghouse Air Brake Technolo,WAB,Westinghouse Air Brake Technologies Corporation,Active,Industrials,,,Railroads,Stock,Industrials,Railroads,Industrials,Railroads
+ED,"Consolidated Edison, Inc.",ED,"Consolidated Edison, Inc.",Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+DOW,Dow Inc.,DOW,Dow Inc.,Active,Basic Materials,,,Chemicals,Stock,Basic Materials,Chemicals,Basic Materials,Chemicals
+HIG,Hartford Financial Services Gro,HIG,"The Hartford Financial Services Group, Inc.",Active,Financial Services,,,Insurance - Property & Casualty,Stock,Financial Services,Insurance - Property & Casualty,Financial Services,Insurance - Property & Casualty
+IRM,Iron Mountain Incorporated (Del,IRM,Iron Mountain Incorporated,Active,Real Estate,,,REIT - Specialty,Stock,Real Estate,REIT - Specialty,Real Estate,REIT - Specialty
+ROK,"Rockwell Automation, Inc.",ROK,"Rockwell Automation, Inc.",Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+VICI,VICI Properties Inc.,VICI,VICI Properties Inc.,Active,Real Estate,,,REIT - Diversified,Stock,Real Estate,REIT - Diversified,Real Estate,REIT - Diversified
+EFX,"Equifax, Inc.",EFX,Equifax Inc.,Active,Industrials,,,Consulting Services,Stock,Industrials,Consulting Services,Industrials,Consulting Services
+RJF,"Raymond James Financial, Inc.",RJF,"Raymond James Financial, Inc.",Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+CCL,Carnival Corporation,CCL,Carnival Corporation & plc,Active,Consumer Cyclical,,,Travel Services,Stock,Consumer Cyclical,Travel Services,Consumer Cyclical,Travel Services
+AVB,"AvalonBay Communities, Inc.",AVB,"AvalonBay Communities, Inc.",Active,Real Estate,,,REIT - Residential,Stock,Real Estate,REIT - Residential,Real Estate,REIT - Residential
+WTW,Willis Towers Watson Public Lim,WTW,Willis Towers Watson Public Limited Company,Active,Financial Services,,,Insurance Brokers,Stock,Financial Services,Insurance Brokers,Financial Services,Insurance Brokers
+FITB,Fifth Third Bancorp,FITB,Fifth Third Bancorp,Active,Financial Services,,,Banks - Regional,Stock,Financial Services,Banks - Regional,Financial Services,Banks - Regional
+BRO,"Brown & Brown, Inc.",BRO,"Brown & Brown, Inc.",Active,Financial Services,,,Insurance Brokers,Stock,Financial Services,Insurance Brokers,Financial Services,Insurance Brokers
+CNC,Centene Corporation,CNC,Centene Corporation,Active,Healthcare,,,Healthcare Plans,Stock,Healthcare,Healthcare Plans,Healthcare,Healthcare Plans
+EIX,Edison International,EIX,Edison International,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+ETR,Entergy Corporation,ETR,Entergy Corporation,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+TSCO,Tractor Supply Company,TSCO,Tractor Supply Company,Active,Consumer Cyclical,,,Specialty Retail,Stock,Consumer Cyclical,Specialty Retail,Consumer Cyclical,Specialty Retail
+ON,ON Semiconductor Corporation,ON,ON Semiconductor Corporation,Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+CSGP,"CoStar Group, Inc.",CSGP,"CoStar Group, Inc.",Active,Real Estate,,,Real Estate Services,Stock,Real Estate,Real Estate Services,Real Estate,Real Estate Services
+WEC,"WEC Energy Group, Inc.",WEC,"WEC Energy Group, Inc.",Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+XYL,Xylem Inc.,XYL,Xylem Inc.,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+MTD,"Mettler-Toledo International, I",MTD,Mettler-Toledo International Inc.,Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+GPN,Global Payments Inc.,GPN,Global Payments Inc.,Active,Industrials,,,Specialty Business Services,Stock,Industrials,Specialty Business Services,Industrials,Specialty Business Services
+EBAY,eBay Inc.,EBAY,eBay Inc.,Active,Consumer Cyclical,,,Internet Retail,Stock,Consumer Cyclical,Internet Retail,Consumer Cyclical,Internet Retail
+LYV,"Live Nation Entertainment, Inc.",LYV,"Live Nation Entertainment, Inc.",Active,Communication Services,,,Entertainment,Stock,Communication Services,Entertainment,Communication Services,Entertainment
+TTWO,"Take-Two Interactive Software, ",TTWO,"Take-Two Interactive Software, Inc.",Active,Communication Services,,,Electronic Gaming & Multimedia,Stock,Communication Services,Electronic Gaming & Multimedia,Communication Services,Electronic Gaming & Multimedia
+PPG,"PPG Industries, Inc.",PPG,"PPG Industries, Inc.",Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+ANSS,"ANSYS, Inc.",ANSS,"ANSYS, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+UAL,"United Airlines Holdings, Inc.",UAL,"United Airlines Holdings, Inc.",Active,Industrials,,,Airlines,Stock,Industrials,Airlines,Industrials,Airlines
+STT,State Street Corporation,STT,State Street Corporation,Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+NVR,"NVR, Inc.",NVR,"NVR, Inc.",Active,Consumer Cyclical,,,Residential Construction,Stock,Consumer Cyclical,Residential Construction,Consumer Cyclical,Residential Construction
+KEYS,Keysight Technologies Inc.,KEYS,"Keysight Technologies, Inc.",Active,Technology,,,Scientific & Technical Instruments,Stock,Technology,Scientific & Technical Instruments,Technology,Scientific & Technical Instruments
+LYB,LyondellBasell Industries NV,LYB,LyondellBasell Industries N.V.,Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+CAH,"Cardinal Health, Inc.",CAH,"Cardinal Health, Inc.",Active,Healthcare,,,Medical Distribution,Stock,Healthcare,Medical Distribution,Healthcare,Medical Distribution
+EQR,Equity Residential,EQR,Equity Residential,Active,Real Estate,,,REIT - Residential,Stock,Real Estate,REIT - Residential,Real Estate,REIT - Residential
+K,Kellanova,K,Kellanova,Active,Consumer Defensive,,,Packaged Foods,Stock,Consumer Defensive,Packaged Foods,Consumer Defensive,Packaged Foods
+DOV,Dover Corporation,DOV,Dover Corporation,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+HPE,Hewlett Packard Enterprise Comp,HPE,Hewlett Packard Enterprise Company,Active,Technology,,,Communication Equipment,Stock,Technology,Communication Equipment,Technology,Communication Equipment
+SW,Smurfit WestRock plc,SW,Smurfit Westrock Plc,Active,Consumer Cyclical,,,Packaging & Containers,Stock,Consumer Cyclical,Packaging & Containers,Consumer Cyclical,Packaging & Containers
+CDW,CDW Corporation,CDW,CDW Corporation,Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+TROW,"T. Rowe Price Group, Inc.",TROW,"T. Rowe Price Group, Inc.",Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+HAL,Halliburton Company,HAL,Halliburton Company,Active,Energy,,,Oil & Gas Equipment & Services,Stock,Energy,Oil & Gas Equipment & Services,Energy,Oil & Gas Equipment & Services
+DXCM,"DexCom, Inc.",DXCM,"DexCom, Inc.",Active,Healthcare,,,Medical Devices,Stock,Healthcare,Medical Devices,Healthcare,Medical Devices
+VTR,"Ventas, Inc.",VTR,"Ventas, Inc.",Active,Real Estate,,,REIT - Healthcare Facilities,Stock,Real Estate,REIT - Healthcare Facilities,Real Estate,REIT - Healthcare Facilities
+PHM,"PulteGroup, Inc.",PHM,"PulteGroup, Inc.",Active,Consumer Cyclical,,,Residential Construction,Stock,Consumer Cyclical,Residential Construction,Consumer Cyclical,Residential Construction
+DVN,Devon Energy Corporation,DVN,Devon Energy Corporation,Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+SYF,Synchrony Financial,SYF,Synchrony Financial,Active,Financial Services,,,Credit Services,Stock,Financial Services,Credit Services,Financial Services,Credit Services
+AWK,"American Water Works Company, I",AWK,"American Water Works Company, Inc.",Active,Utilities,,,Utilities - Regulated Water,Stock,Utilities,Utilities - Regulated Water,Utilities,Utilities - Regulated Water
+LDOS,"Leidos Holdings, Inc.",LDOS,"Leidos Holdings, Inc.",Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+TYL,"Tyler Technologies, Inc.",TYL,"Tyler Technologies, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+FTV,Fortive Corporation,FTV,Fortive Corporation,Active,Technology,,,Scientific & Technical Instruments,Stock,Technology,Scientific & Technical Instruments,Technology,Scientific & Technical Instruments
+HST,"Host Hotels & Resorts, Inc.",HST,"Host Hotels & Resorts, Inc.",Active,Real Estate,,,REIT - Hotel & Motel,Stock,Real Estate,REIT - Hotel & Motel,Real Estate,REIT - Hotel & Motel
+BR,"Broadridge Financial Solutions,",BR,"Broadridge Financial Solutions, Inc.",Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+VLTO,Veralto Corp,VLTO,Veralto Corporation,Active,Industrials,,,Pollution & Treatment Controls,Stock,Industrials,Pollution & Treatment Controls,Industrials,Pollution & Treatment Controls
+ADM,Archer-Daniels-Midland Company,ADM,Archer-Daniels-Midland Company,Active,Consumer Defensive,,,Farm Products,Stock,Consumer Defensive,Farm Products,Consumer Defensive,Farm Products
+HBAN,Huntington Bancshares Incorpora,HBAN,Huntington Bancshares Incorporated,Active,Financial Services,,,Banks - Regional,Stock,Financial Services,Banks - Regional,Financial Services,Banks - Regional
+BIIB,Biogen Inc.,BIIB,Biogen Inc.,Active,Healthcare,,,Drug Manufacturers - General,Stock,Healthcare,Drug Manufacturers - General,Healthcare,Drug Manufacturers - General
+HUBB,Hubbell Inc,HUBB,Hubbell Incorporated,Active,Industrials,,,Electrical Equipment & Parts,Stock,Industrials,Electrical Equipment & Parts,Industrials,Electrical Equipment & Parts
+CHD,"Church & Dwight Company, Inc.",CHD,"Church & Dwight Co., Inc.",Active,Consumer Defensive,,,Household & Personal Products,Stock,Consumer Defensive,Household & Personal Products,Consumer Defensive,Household & Personal Products
+DTE,DTE Energy Company,DTE,DTE Energy Company,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+DECK,Deckers Outdoor Corporation,DECK,Deckers Outdoor Corporation,Active,Consumer Cyclical,,,Footwear & Accessories,Stock,Consumer Cyclical,Footwear & Accessories,Consumer Cyclical,Footwear & Accessories
+NTAP,"NetApp, Inc.",NTAP,"NetApp, Inc.",Active,Technology,,,Computer Hardware,Stock,Technology,Computer Hardware,Technology,Computer Hardware
+GDDY,GoDaddy Inc.,GDDY,GoDaddy Inc.,Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+CPAY,"Corpay, Inc.",CPAY,"Corpay, Inc.",Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+WDC,Western Digital Corporation,WDC,Western Digital Corporation,Active,Technology,,,Computer Hardware,Stock,Technology,Computer Hardware,Technology,Computer Hardware
+PPL,PPL Corporation,PPL,PPL Corporation,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+EQT,EQT Corporation,EQT,EQT Corporation,Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+FE,FirstEnergy Corp.,FE,FirstEnergy Corp.,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+RF,Regions Financial Corporation,RF,Regions Financial Corporation,Active,Financial Services,,,Banks - Regional,Stock,Financial Services,Banks - Regional,Financial Services,Banks - Regional
+WST,"West Pharmaceutical Services, I",WST,"West Pharmaceutical Services, Inc.",Active,Healthcare,,,Medical Instruments & Supplies,Stock,Healthcare,Medical Instruments & Supplies,Healthcare,Medical Instruments & Supplies
+STLD,"Steel Dynamics, Inc.",STLD,"Steel Dynamics, Inc.",Active,Basic Materials,,,Steel,Stock,Basic Materials,Steel,Basic Materials,Steel
+PTC,PTC Inc.,PTC,PTC Inc.,Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+ROL,"Rollins, Inc.",ROL,"Rollins, Inc.",Active,Consumer Cyclical,,,Personal Services,Stock,Consumer Cyclical,Personal Services,Consumer Cyclical,Personal Services
+SBAC,SBA Communications Corporation,SBAC,SBA Communications Corporation,Active,Real Estate,,,REIT - Specialty,Stock,Real Estate,REIT - Specialty,Real Estate,REIT - Specialty
+AEE,Ameren Corporation,AEE,Ameren Corporation,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+CINF,Cincinnati Financial Corporatio,CINF,Cincinnati Financial Corporation,Active,Financial Services,,,Insurance - Property & Casualty,Stock,Financial Services,Insurance - Property & Casualty,Financial Services,Insurance - Property & Casualty
+WRB,W.R. Berkley Corporation,WRB,W. R. Berkley Corporation,Active,Financial Services,,,Insurance - Property & Casualty,Stock,Financial Services,Insurance - Property & Casualty,Financial Services,Insurance - Property & Casualty
+WAT,Waters Corporation,WAT,Waters Corporation,Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+WY,Weyerhaeuser Company,WY,Weyerhaeuser Company,Active,Real Estate,,,REIT - Specialty,Stock,Real Estate,REIT - Specialty,Real Estate,REIT - Specialty
+EL,"Estee Lauder Companies, Inc. (T",EL,The Estée Lauder Companies Inc.,Active,Consumer Defensive,,,Household & Personal Products,Stock,Consumer Defensive,Household & Personal Products,Consumer Defensive,Household & Personal Products
+STE,STERIS plc (Ireland),STE,STERIS plc,Active,Healthcare,,,Medical Devices,Stock,Healthcare,Medical Devices,Healthcare,Medical Devices
+TDY,Teledyne Technologies Incorpora,TDY,Teledyne Technologies Incorporated,Active,Technology,,,Scientific & Technical Instruments,Stock,Technology,Scientific & Technical Instruments,Technology,Scientific & Technical Instruments
+IFF,International Flavors & Fragran,IFF,International Flavors & Fragrances Inc.,Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+ERIE,Erie Indemnity Company,ERIE,Erie Indemnity Company,Active,Financial Services,,,Insurance Brokers,Stock,Financial Services,Insurance Brokers,Financial Services,Insurance Brokers
+EXPE,"Expedia Group, Inc.",EXPE,"Expedia Group, Inc.",Active,Consumer Cyclical,,,Travel Services,Stock,Consumer Cyclical,Travel Services,Consumer Cyclical,Travel Services
+ES,Eversource Energy (D/B/A),ES,Eversource Energy,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+ZBH,"Zimmer Biomet Holdings, Inc.",ZBH,"Zimmer Biomet Holdings, Inc.",Active,Healthcare,,,Medical Devices,Stock,Healthcare,Medical Devices,Healthcare,Medical Devices
+STX,Seagate Technology Holdings PLC,STX,Seagate Technology Holdings plc,Active,Technology,,,Computer Hardware,Stock,Technology,Computer Hardware,Technology,Computer Hardware
+PKG,Packaging Corporation of Americ,PKG,Packaging Corporation of America,Active,Consumer Cyclical,,,Packaging & Containers,Stock,Consumer Cyclical,Packaging & Containers,Consumer Cyclical,Packaging & Containers
+ATO,Atmos Energy Corporation,ATO,Atmos Energy Corporation,Active,Utilities,,,Utilities - Regulated Gas,Stock,Utilities,Utilities - Regulated Gas,Utilities,Utilities - Regulated Gas
+CFG,"Citizens Financial Group, Inc.",CFG,"Citizens Financial Group, Inc.",Active,Financial Services,,,Banks - Regional,Stock,Financial Services,Banks - Regional,Financial Services,Banks - Regional
+NTRS,Northern Trust Corporation,NTRS,Northern Trust Corporation,Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+CBOE,"Cboe Global Markets, Inc.",CBOE,"Cboe Global Markets, Inc.",Active,Financial Services,,,Financial Data & Stock Exchanges,Stock,Financial Services,Financial Data & Stock Exchanges,Financial Services,Financial Data & Stock Exchanges
+TSN,"Tyson Foods, Inc.",TSN,"Tyson Foods, Inc.",Active,Consumer Defensive,,,Farm Products,Stock,Consumer Defensive,Farm Products,Consumer Defensive,Farm Products
+FSLR,"First Solar, Inc.",FSLR,"First Solar, Inc.",Active,Technology,,,Solar,Stock,Technology,Solar,Technology,Solar
+COO,"The Cooper Companies, Inc.",COO,"The Cooper Companies, Inc.",Active,Healthcare,,,Medical Instruments & Supplies,Stock,Healthcare,Medical Instruments & Supplies,Healthcare,Medical Instruments & Supplies
+MKC,"McCormick & Company, Incorporat",MKC,"McCormick & Company, Incorporated",Active,Consumer Defensive,,,Packaged Foods,Stock,Consumer Defensive,Packaged Foods,Consumer Defensive,Packaged Foods
+WBD,"Warner Bros. Discovery, Inc. - ",WBD,"Warner Bros. Discovery, Inc.",Active,Communication Services,,,Entertainment,Stock,Communication Services,Entertainment,Communication Services,Entertainment
+OMC,Omnicom Group Inc.,OMC,Omnicom Group Inc.,Active,Communication Services,,,Advertising Agencies,Stock,Communication Services,Advertising Agencies,Communication Services,Advertising Agencies
+IP,International Paper Company,IP,International Paper Company,Active,Consumer Cyclical,,,Packaging & Containers,Stock,Consumer Cyclical,Packaging & Containers,Consumer Cyclical,Packaging & Containers
+INVH,Invitation Homes Inc.,INVH,Invitation Homes Inc.,Active,Real Estate,,,REIT - Residential,Stock,Real Estate,REIT - Residential,Real Estate,REIT - Residential
+BLDR,"Builders FirstSource, Inc.",BLDR,"Builders FirstSource, Inc.",Active,Industrials,,,Building Products & Equipment,Stock,Industrials,Building Products & Equipment,Industrials,Building Products & Equipment
+ZBRA,Zebra Technologies Corporation,ZBRA,Zebra Technologies Corporation,Active,Technology,,,Communication Equipment,Stock,Technology,Communication Equipment,Technology,Communication Equipment
+CMS,CMS Energy Corporation,CMS,CMS Energy Corporation,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+CLX,Clorox Company (The),CLX,The Clorox Company,Active,Consumer Defensive,,,Household & Personal Products,Stock,Consumer Defensive,Household & Personal Products,Consumer Defensive,Household & Personal Products
+DRI,"Darden Restaurants, Inc.",DRI,"Darden Restaurants, Inc.",Active,Consumer Cyclical,,,Restaurants,Stock,Consumer Cyclical,Restaurants,Consumer Cyclical,Restaurants
+FOXA,Fox Corporation,FOXA,Fox Corporation,Active,Communication Services,,,Entertainment,Stock,Communication Services,Entertainment,Communication Services,Entertainment
+FOX,Fox Corporation,FOX,Fox Corporation,Active,Communication Services,,,Entertainment,Stock,Communication Services,Entertainment,Communication Services,Entertainment
+MRNA,"Moderna, Inc.",MRNA,"Moderna, Inc.",Active,Healthcare,,,Biotechnology,Stock,Healthcare,Biotechnology,Healthcare,Biotechnology
+KEY,KeyCorp,KEY,KeyCorp,Active,Financial Services,,,Banks - Regional,Stock,Financial Services,Banks - Regional,Financial Services,Banks - Regional
+ARE,Alexandria Real Estate Equities,ARE,"Alexandria Real Estate Equities, Inc.",Active,Real Estate,,,REIT - Office,Stock,Real Estate,REIT - Office,Real Estate,REIT - Office
+PFG,Principal Financial Group Inc,PFG,"Principal Financial Group, Inc.",Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+BF-B,Brown Forman Inc,BF-B,Brown-Forman Corporation,Active,Consumer Defensive,,,Beverages - Wineries & Distilleries,Stock,Consumer Defensive,Beverages - Wineries & Distilleries,Consumer Defensive,Beverages - Wineries & Distilleries
+LH,Labcorp Holdings Inc.,LH,Labcorp Holdings Inc.,Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+ESS,"Essex Property Trust, Inc.",ESS,"Essex Property Trust, Inc.",Active,Real Estate,,,REIT - Residential,Stock,Real Estate,REIT - Residential,Real Estate,REIT - Residential
+JBHT,"J.B. Hunt Transport Services, I",JBHT,"J.B. Hunt Transport Services, Inc.",Active,Industrials,,,Integrated Freight & Logistics,Stock,Industrials,Integrated Freight & Logistics,Industrials,Integrated Freight & Logistics
+BBY,"Best Buy Co., Inc.",BBY,"Best Buy Co., Inc.",Active,Consumer Cyclical,,,Specialty Retail,Stock,Consumer Cyclical,Specialty Retail,Consumer Cyclical,Specialty Retail
+NRG,"NRG Energy, Inc.",NRG,"NRG Energy, Inc.",Active,Utilities,,,Utilities - Independent Power Producers,Stock,Utilities,Utilities - Independent Power Producers,Utilities,Utilities - Independent Power Producers
+CNP,"CenterPoint Energy, Inc (Holdin",CNP,"CenterPoint Energy, Inc.",Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+LUV,Southwest Airlines Company,LUV,Southwest Airlines Co.,Active,Industrials,,,Airlines,Stock,Industrials,Airlines,Industrials,Airlines
+HOLX,"Hologic, Inc.",HOLX,"Hologic, Inc.",Active,Healthcare,,,Medical Instruments & Supplies,Stock,Healthcare,Medical Instruments & Supplies,Healthcare,Medical Instruments & Supplies
+MOH,Molina Healthcare Inc,MOH,"Molina Healthcare, Inc.",Active,Healthcare,,,Healthcare Plans,Stock,Healthcare,Healthcare Plans,Healthcare,Healthcare Plans
+SNA,Snap-On Incorporated,SNA,Snap-on Incorporated,Active,Industrials,,,Tools & Accessories,Stock,Industrials,Tools & Accessories,Industrials,Tools & Accessories
+MAA,Mid-America Apartment Communiti,MAA,"Mid-America Apartment Communities, Inc.",Active,Real Estate,,,REIT - Residential,Stock,Real Estate,REIT - Residential,Real Estate,REIT - Residential
+BAX,Baxter International Inc.,BAX,Baxter International Inc.,Active,Healthcare,,,Medical Instruments & Supplies,Stock,Healthcare,Medical Instruments & Supplies,Healthcare,Medical Instruments & Supplies
+J,Jacobs Solutions Inc.,J,Jacobs Solutions Inc.,Active,Industrials,,,Engineering & Construction,Stock,Industrials,Engineering & Construction,Industrials,Engineering & Construction
+ULTA,"Ulta Beauty, Inc.",ULTA,"Ulta Beauty, Inc.",Active,Consumer Cyclical,,,Specialty Retail,Stock,Consumer Cyclical,Specialty Retail,Consumer Cyclical,Specialty Retail
+FDS,FactSet Research Systems Inc.,FDS,FactSet Research Systems Inc.,Active,Financial Services,,,Financial Data & Stock Exchanges,Stock,Financial Services,Financial Data & Stock Exchanges,Financial Services,Financial Data & Stock Exchanges
+CTRA,Coterra Energy Inc.,CTRA,Coterra Energy Inc.,Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+BALL,Ball Corporation,BALL,Ball Corporation,Active,Consumer Cyclical,,,Packaging & Containers,Stock,Consumer Cyclical,Packaging & Containers,Consumer Cyclical,Packaging & Containers
+GEN,Gen Digital Inc.,GEN,Gen Digital Inc.,Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+VRSN,"VeriSign, Inc.",VRSN,"VeriSign, Inc.",Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+L,Loews Corporation,L,Loews Corporation,Active,Financial Services,,,Insurance - Property & Casualty,Stock,Financial Services,Insurance - Property & Casualty,Financial Services,Insurance - Property & Casualty
+IEX,IDEX Corporation,IEX,IDEX Corporation,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+TER,"Teradyne, Inc.",TER,"Teradyne, Inc.",Active,Technology,,,Semiconductor Equipment & Materials,Stock,Technology,Semiconductor Equipment & Materials,Technology,Semiconductor Equipment & Materials
+TRMB,Trimble Inc.,TRMB,Trimble Inc.,Active,Technology,,,Scientific & Technical Instruments,Stock,Technology,Scientific & Technical Instruments,Technology,Scientific & Technical Instruments
+DGX,Quest Diagnostics Incorporated,DGX,Quest Diagnostics Incorporated,Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+MAS,Masco Corporation,MAS,Masco Corporation,Active,Industrials,,,Building Products & Equipment,Stock,Industrials,Building Products & Equipment,Industrials,Building Products & Equipment
+GPC,Genuine Parts Company,GPC,Genuine Parts Company,Active,Consumer Cyclical,,,Auto Parts,Stock,Consumer Cyclical,Auto Parts,Consumer Cyclical,Auto Parts
+DG,Dollar General Corporation,DG,Dollar General Corporation,Active,Consumer Defensive,,,Discount Stores,Stock,Consumer Defensive,Discount Stores,Consumer Defensive,Discount Stores
+PNR,Pentair plc.,PNR,Pentair plc,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+NWS,News Corporation,NWS,News Corporation,Active,Communication Services,,,Entertainment,Stock,Communication Services,Entertainment,Communication Services,Entertainment
+EXPD,Expeditors International of Was,EXPD,"Expeditors International of Washington, Inc.",Active,Industrials,,,Integrated Freight & Logistics,Stock,Industrials,Integrated Freight & Logistics,Industrials,Integrated Freight & Logistics
+NWSA,News Corporation,NWSA,News Corporation,Active,Communication Services,,,Entertainment,Stock,Communication Services,Entertainment,Communication Services,Entertainment
+HRL,Hormel Foods Corporation,HRL,Hormel Foods Corporation,Active,Consumer Defensive,,,Packaged Foods,Stock,Consumer Defensive,Packaged Foods,Consumer Defensive,Packaged Foods
+ALGN,"Align Technology, Inc.",ALGN,"Align Technology, Inc.",Active,Healthcare,,,Medical Instruments & Supplies,Stock,Healthcare,Medical Instruments & Supplies,Healthcare,Medical Instruments & Supplies
+PODD,Insulet Corporation,PODD,Insulet Corporation,Active,Healthcare,,,Medical Devices,Stock,Healthcare,Medical Devices,Healthcare,Medical Devices
+NI,NiSource Inc,NI,NiSource Inc.,Active,Utilities,,,Utilities - Regulated Gas,Stock,Utilities,Utilities - Regulated Gas,Utilities,Utilities - Regulated Gas
+AVY,Avery Dennison Corporation,AVY,Avery Dennison Corporation,Active,Consumer Cyclical,,,Packaging & Containers,Stock,Consumer Cyclical,Packaging & Containers,Consumer Cyclical,Packaging & Containers
+KIM,Kimco Realty Corporation (HC),KIM,Kimco Realty Corporation,Active,Real Estate,,,REIT - Retail,Stock,Real Estate,REIT - Retail,Real Estate,REIT - Retail
+TXT,Textron Inc.,TXT,Textron Inc.,Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+UDR,"UDR, Inc.",UDR,"UDR, Inc.",Active,Real Estate,,,REIT - Residential,Stock,Real Estate,REIT - Residential,Real Estate,REIT - Residential
+MRO,Marathon Oil Corporation,MRO,Marathon Oil Corporation,Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+AKAM,"Akamai Technologies, Inc.",AKAM,"Akamai Technologies, Inc.",Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+EG,"Everest Group, Ltd.",EG,"Everest Group, Ltd.",Active,Financial Services,,,Insurance - Reinsurance,Stock,Financial Services,Insurance - Reinsurance,Financial Services,Insurance - Reinsurance
+DOC,"Healthpeak Properties, Inc.",DOC,"Healthpeak Properties, Inc.",Active,Real Estate,,,REIT - Healthcare Facilities,Stock,Real Estate,REIT - Healthcare Facilities,Real Estate,REIT - Healthcare Facilities
+INCY,Incyte Corporation,INCY,Incyte Corporation,Active,Healthcare,,,Biotechnology,Stock,Healthcare,Biotechnology,Healthcare,Biotechnology
+JBL,Jabil Inc.,JBL,Jabil Inc.,Active,Technology,,,Electronic Components,Stock,Technology,Electronic Components,Technology,Electronic Components
+RVTY,"Revvity, Inc.",RVTY,"Revvity, Inc.",Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+DPZ,Domino's Pizza Inc,DPZ,"Domino's Pizza, Inc.",Active,Consumer Cyclical,,,Restaurants,Stock,Consumer Cyclical,Restaurants,Consumer Cyclical,Restaurants
+NDSN,Nordson Corporation,NDSN,Nordson Corporation,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+AMCR,Amcor plc,AMCR,Amcor plc,Active,Consumer Cyclical,,,Packaging & Containers,Stock,Consumer Cyclical,Packaging & Containers,Consumer Cyclical,Packaging & Containers
+LNT,Alliant Energy Corporation,LNT,Alliant Energy Corporation,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+CF,"CF Industries Holdings, Inc.",CF,"CF Industries Holdings, Inc.",Active,Basic Materials,,,Agricultural Inputs,Stock,Basic Materials,Agricultural Inputs,Basic Materials,Agricultural Inputs
+SWKS,"Skyworks Solutions, Inc.",SWKS,"Skyworks Solutions, Inc.",Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
+BXP,"BXP, Inc.",BXP,"BXP, Inc.",Active,Real Estate,,,REIT - Office,Stock,Real Estate,REIT - Office,Real Estate,REIT - Office
+SWK,"Stanley Black & Decker, Inc.",SWK,"Stanley Black & Decker, Inc.",Active,Industrials,,,Tools & Accessories,Stock,Industrials,Tools & Accessories,Industrials,Tools & Accessories
+POOL,Pool Corporation,POOL,Pool Corporation,Active,Industrials,,,Industrial Distribution,Stock,Industrials,Industrial Distribution,Industrials,Industrial Distribution
+EVRG,"Evergy, Inc.",EVRG,"Evergy, Inc.",Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+FFIV,"F5, Inc.",FFIV,"F5, Inc.",Active,Technology,,,Software - Infrastructure,Stock,Technology,Software - Infrastructure,Technology,Software - Infrastructure
+VTRS,Viatris Inc.,VTRS,Viatris Inc.,Active,Healthcare,,,Drug Manufacturers - Specialty & Generic,Stock,Healthcare,Drug Manufacturers - Specialty & Generic,Healthcare,Drug Manufacturers - Specialty & Generic
+CAG,"ConAgra Brands, Inc.",CAG,"Conagra Brands, Inc.",Active,Consumer Defensive,,,Packaged Foods,Stock,Consumer Defensive,Packaged Foods,Consumer Defensive,Packaged Foods
+CPB,Campbell Soup Company,CPB,Campbell Soup Company,Active,Consumer Defensive,,,Packaged Foods,Stock,Consumer Defensive,Packaged Foods,Consumer Defensive,Packaged Foods
+UHS,"Universal Health Services, Inc.",UHS,"Universal Health Services, Inc.",Active,Healthcare,,,Medical Care Facilities,Stock,Healthcare,Medical Care Facilities,Healthcare,Medical Care Facilities
+DLTR,"Dollar Tree, Inc.",DLTR,"Dollar Tree, Inc.",Active,Consumer Defensive,,,Discount Stores,Stock,Consumer Defensive,Discount Stores,Consumer Defensive,Discount Stores
+PAYC,"Paycom Software, Inc.",PAYC,"Paycom Software, Inc.",Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+REG,Regency Centers Corporation,REG,Regency Centers Corporation,Active,Real Estate,,,REIT - Retail,Stock,Real Estate,REIT - Retail,Real Estate,REIT - Retail
+SMCI,"Super Micro Computer, Inc.",SMCI,"Super Micro Computer, Inc.",Active,Technology,,,Computer Hardware,Stock,Technology,Computer Hardware,Technology,Computer Hardware
+JKHY,"Jack Henry & Associates, Inc.",JKHY,"Jack Henry & Associates, Inc.",Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+JNPR,"Juniper Networks, Inc.",JNPR,"Juniper Networks, Inc.",Active,Technology,,,Communication Equipment,Stock,Technology,Communication Equipment,Technology,Communication Equipment
+RL,Ralph Lauren Corporation,RL,Ralph Lauren Corporation,Active,Consumer Cyclical,,,Apparel Manufacturing,Stock,Consumer Cyclical,Apparel Manufacturing,Consumer Cyclical,Apparel Manufacturing
+SOLV,Solventum Corporation,SOLV,Solventum Corporation,Active,Healthcare,,,Health Information Services,Stock,Healthcare,Health Information Services,Healthcare,Health Information Services
+DAY,"Dayforce, Inc.",DAY,Dayforce Inc,Active,Technology,,,Software - Application,Stock,Technology,Software - Application,Technology,Software - Application
+APTV,Aptiv PLC,APTV,Aptiv PLC,Active,Consumer Cyclical,,,Auto Parts,Stock,Consumer Cyclical,Auto Parts,Consumer Cyclical,Auto Parts
+CHRW,"C.H. Robinson Worldwide, Inc.",CHRW,"C.H. Robinson Worldwide, Inc.",Active,Industrials,,,Integrated Freight & Logistics,Stock,Industrials,Integrated Freight & Logistics,Industrials,Integrated Freight & Logistics
+CPT,Camden Property Trust,CPT,Camden Property Trust,Active,Real Estate,,,REIT - Residential,Stock,Real Estate,REIT - Residential,Real Estate,REIT - Residential
+SJM,The J.M. Smucker Company,SJM,The J. M. Smucker Company,Active,Consumer Defensive,,,Packaged Foods,Stock,Consumer Defensive,Packaged Foods,Consumer Defensive,Packaged Foods
+ALLE,Allegion plc,ALLE,Allegion plc,Active,Industrials,,,Security & Protection Services,Stock,Industrials,Security & Protection Services,Industrials,Security & Protection Services
+NCLH,Norwegian Cruise Line Holdings ,NCLH,Norwegian Cruise Line Holdings Ltd.,Active,Consumer Cyclical,,,Travel Services,Stock,Consumer Cyclical,Travel Services,Consumer Cyclical,Travel Services
+DVA,DaVita Inc.,DVA,DaVita Inc.,Active,Healthcare,,,Medical Care Facilities,Stock,Healthcare,Medical Care Facilities,Healthcare,Medical Care Facilities
+TECH,Bio-Techne Corp,TECH,Bio-Techne Corporation,Active,Healthcare,,,Biotechnology,Stock,Healthcare,Biotechnology,Healthcare,Biotechnology
+EMN,Eastman Chemical Company,EMN,Eastman Chemical Company,Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+BG,Bunge Limited,BG,Bunge Global SA,Active,Consumer Defensive,,,Farm Products,Stock,Consumer Defensive,Farm Products,Consumer Defensive,Farm Products
+KMX,CarMax Inc,KMX,"CarMax, Inc.",Active,Consumer Cyclical,,,Auto & Truck Dealerships,Stock,Consumer Cyclical,Auto & Truck Dealerships,Consumer Cyclical,Auto & Truck Dealerships
+TAP,Molson Coors Beverage Company,TAP,Molson Coors Beverage Company,Active,Consumer Defensive,,,Beverages - Brewers,Stock,Consumer Defensive,Beverages - Brewers,Consumer Defensive,Beverages - Brewers
+TPR,"Tapestry, Inc.",TPR,"Tapestry, Inc.",Active,Consumer Cyclical,,,Luxury Goods,Stock,Consumer Cyclical,Luxury Goods,Consumer Cyclical,Luxury Goods
+EPAM,"EPAM Systems, Inc.",EPAM,"EPAM Systems, Inc.",Active,Technology,,,Information Technology Services,Stock,Technology,Information Technology Services,Technology,Information Technology Services
+LW,"Lamb Weston Holdings, Inc.",LW,"Lamb Weston Holdings, Inc.",Active,Consumer Defensive,,,Packaged Foods,Stock,Consumer Defensive,Packaged Foods,Consumer Defensive,Packaged Foods
+ALB,Albemarle Corporation,ALB,Albemarle Corporation,Active,Basic Materials,,,Specialty Chemicals,Stock,Basic Materials,Specialty Chemicals,Basic Materials,Specialty Chemicals
+IPG,"Interpublic Group of Companies,",IPG,"The Interpublic Group of Companies, Inc.",Active,Communication Services,,,Advertising Agencies,Stock,Communication Services,Advertising Agencies,Communication Services,Advertising Agencies
+BEN,"Franklin Resources, Inc.",BEN,"Franklin Resources, Inc.",Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+MGM,MGM Resorts International,MGM,MGM Resorts International,Active,Consumer Cyclical,,,Resorts & Casinos,Stock,Consumer Cyclical,Resorts & Casinos,Consumer Cyclical,Resorts & Casinos
+CRL,Charles River Laboratories Inte,CRL,"Charles River Laboratories International, Inc.",Active,Healthcare,,,Diagnostics & Research,Stock,Healthcare,Diagnostics & Research,Healthcare,Diagnostics & Research
+AOS,A.O. Smith Corporation,AOS,A. O. Smith Corporation,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+GNRC,Generac Holdlings Inc.,GNRC,Generac Holdings Inc.,Active,Industrials,,,Specialty Industrial Machinery,Stock,Industrials,Specialty Industrial Machinery,Industrials,Specialty Industrial Machinery
+CTLT,"Catalent, Inc.",CTLT,"Catalent, Inc.",Active,Healthcare,,,Drug Manufacturers - Specialty & Generic,Stock,Healthcare,Drug Manufacturers - Specialty & Generic,Healthcare,Drug Manufacturers - Specialty & Generic
+AIZ,"Assurant, Inc.",AIZ,"Assurant, Inc.",Active,Financial Services,,,Insurance - Property & Casualty,Stock,Financial Services,Insurance - Property & Casualty,Financial Services,Insurance - Property & Casualty
+MKTX,"MarketAxess Holdings, Inc.",MKTX,MarketAxess Holdings Inc.,Active,Financial Services,,,Capital Markets,Stock,Financial Services,Capital Markets,Financial Services,Capital Markets
+PNW,Pinnacle West Capital Corporati,PNW,Pinnacle West Capital Corporation,Active,Utilities,,,Utilities - Regulated Electric,Stock,Utilities,Utilities - Regulated Electric,Utilities,Utilities - Regulated Electric
+ENPH,"Enphase Energy, Inc.",ENPH,"Enphase Energy, Inc.",Active,Technology,,,Solar,Stock,Technology,Solar,Technology,Solar
+CE,Celanese Corporation,CE,Celanese Corporation,Active,Basic Materials,,,Chemicals,Stock,Basic Materials,Chemicals,Basic Materials,Chemicals
+AES,The AES Corporation,AES,The AES Corporation,Active,Utilities,,,Utilities - Diversified,Stock,Utilities,Utilities - Diversified,Utilities,Utilities - Diversified
+GL,Globe Life Inc.,GL,Globe Life Inc.,Active,Financial Services,,,Insurance - Life,Stock,Financial Services,Insurance - Life,Financial Services,Insurance - Life
+LKQ,LKQ Corporation,LKQ,LKQ Corporation,Active,Consumer Cyclical,,,Auto Parts,Stock,Consumer Cyclical,Auto Parts,Consumer Cyclical,Auto Parts
+MTCH,"Match Group, Inc.",MTCH,"Match Group, Inc.",Active,Communication Services,,,Internet Content & Information,Stock,Communication Services,Internet Content & Information,Communication Services,Internet Content & Information
+FRT,Federal Realty Investment Trust,FRT,Federal Realty Investment Trust,Active,Real Estate,,,REIT - Retail,Stock,Real Estate,REIT - Retail,Real Estate,REIT - Retail
+TFX,Teleflex Incorporated,TFX,Teleflex Incorporated,Active,Healthcare,,,Medical Instruments & Supplies,Stock,Healthcare,Medical Instruments & Supplies,Healthcare,Medical Instruments & Supplies
+WYNN,"Wynn Resorts, Limited",WYNN,"Wynn Resorts, Limited",Active,Consumer Cyclical,,,Resorts & Casinos,Stock,Consumer Cyclical,Resorts & Casinos,Consumer Cyclical,Resorts & Casinos
+MHK,"Mohawk Industries, Inc.",MHK,"Mohawk Industries, Inc.",Active,Consumer Cyclical,,,"Furnishings, Fixtures & Appliances",Stock,Consumer Cyclical,"Furnishings, Fixtures & Appliances",Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+APA,APA Corporation,APA,APA Corporation,Active,Energy,,,Oil & Gas E&P,Stock,Energy,Oil & Gas E&P,Energy,Oil & Gas E&P
+HSIC,"Henry Schein, Inc.",HSIC,"Henry Schein, Inc.",Active,Healthcare,,,Medical Distribution,Stock,Healthcare,Medical Distribution,Healthcare,Medical Distribution
+HAS,"Hasbro, Inc.",HAS,"Hasbro, Inc.",Active,Consumer Cyclical,,,Leisure,Stock,Consumer Cyclical,Leisure,Consumer Cyclical,Leisure
+MOS,Mosaic Company (The),MOS,The Mosaic Company,Active,Basic Materials,,,Agricultural Inputs,Stock,Basic Materials,Agricultural Inputs,Basic Materials,Agricultural Inputs
+CZR,"Caesars Entertainment, Inc.",CZR,"Caesars Entertainment, Inc.",Active,Consumer Cyclical,,,Resorts & Casinos,Stock,Consumer Cyclical,Resorts & Casinos,Consumer Cyclical,Resorts & Casinos
+IVZ,Invesco Ltd,IVZ,Invesco Ltd.,Active,Financial Services,,,Asset Management,Stock,Financial Services,Asset Management,Financial Services,Asset Management
+PARA,Paramount Global,PARA,Paramount Global,Active,Communication Services,,,Entertainment,Stock,Communication Services,Entertainment,Communication Services,Entertainment
+WBA,"Walgreens Boots Alliance, Inc.",WBA,"Walgreens Boots Alliance, Inc.",Active,Healthcare,,,Pharmaceutical Retailers,Stock,Healthcare,Pharmaceutical Retailers,Healthcare,Pharmaceutical Retailers
+HII,"Huntington Ingalls Industries, ",HII,"Huntington Ingalls Industries, Inc.",Active,Industrials,,,Aerospace & Defense,Stock,Industrials,Aerospace & Defense,Industrials,Aerospace & Defense
+BWA,BorgWarner Inc.,BWA,BorgWarner Inc.,Active,Consumer Cyclical,,,Auto Parts,Stock,Consumer Cyclical,Auto Parts,Consumer Cyclical,Auto Parts
+FMC,FMC Corporation,FMC,FMC Corporation,Active,Basic Materials,,,Agricultural Inputs,Stock,Basic Materials,Agricultural Inputs,Basic Materials,Agricultural Inputs
+AMTM,"Amentum Holdings, Inc.",AMTM,"Amentum Holdings, Inc.",Active,Industrials,,,Specialty Business Services,Stock,Industrials,Specialty Business Services,Industrials,Specialty Business Services
+QRVO,"Qorvo, Inc.",QRVO,"Qorvo, Inc.",Active,Technology,,,Semiconductors,Stock,Technology,Semiconductors,Technology,Semiconductors
