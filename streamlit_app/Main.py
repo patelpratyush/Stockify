@@ -42,10 +42,6 @@ The app workflow is:
 
 1. Clone the repo
 
-```bash
-git clone https://github.com/user/stockastic.git
-```
-
 2. Install requirements
 
 ```bash
